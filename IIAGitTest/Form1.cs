@@ -15,6 +15,7 @@ namespace IIAGitTest
         public Form1()
         {
             InitializeComponent();
+            //Commentaire
         }
     }
 }
